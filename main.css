@@ -1,0 +1,38 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.calc-main {
+  background-color: yellow;
+  width: 38%;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.calc-screen {
+  width: 370px;
+  height: 50px;
+  font-size: 24px;
+  text-align: right;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.calc-button {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 78px !important;
+  text-align: center !important;
+}
+
+.list-inline {
+  text-align: center;
+
+}
+
+.zero-btn {
+  width: 170px !important;
+  text-align: right !important;
+}
